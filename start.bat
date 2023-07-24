@@ -1,0 +1,1 @@
+C:\Users\HOANG\AppData\Local\Programs\Python\Python39\python.exe C:\Users\HOANG\Desktop\zoom_auto.py %*
